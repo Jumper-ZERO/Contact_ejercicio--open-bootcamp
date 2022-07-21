@@ -1,6 +1,6 @@
 import { LEVELS } from "./levels.class";
 
-export class task {
+export class Task {
     name = "";
     description = "";
     completed = false;
